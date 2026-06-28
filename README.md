@@ -2,6 +2,8 @@
 
 A modern and fully responsive Freelance Marketplace Website inspired by platforms like Fiverr and Upwork. This project was developed as part of a Frontend Web Development Internship Task.
 
+live link: https://ismailhussainx0.github.io/Freelance-website/
+
 ## 🚀 Features
 
 - Responsive Home Page
