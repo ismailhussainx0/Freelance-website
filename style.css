@@ -541,3 +541,52 @@ section {
     margin-bottom:20px;
 
 }
+
+
+/* contact page */
+.contact{
+
+    background:#f8f9fa;
+
+}
+
+.contact-card{
+
+    background:#fff;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 10px 25px rgba(0,0,0,.08);
+
+}
+
+.form-control{
+
+    padding:14px;
+
+}
+
+textarea{
+
+    resize:none;
+
+}
+
+.contact-card p{
+
+    margin:20px 0;
+
+}
+
+.contact-card i{
+
+    color:#2563EB;
+    margin-right:10px;
+
+}
+
+.error-msg{
+    display: inline;
+    margin-top: 2px;
+    color: red;
+    font-size: 14px;
+}
