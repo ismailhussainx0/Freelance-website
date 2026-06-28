@@ -349,6 +349,16 @@ section {
     background:#f8f9fa;
 }
 
+/* star icon */
+.profile-icon{
+    color: #F59E0B;
+    font-size: 18px;
+}
+
+.profile-btn{
+    padding:12px 30px;
+}
+
 .profile-card,
 .content-card,
 .portfolio-card{
